@@ -15,7 +15,7 @@ NumPy is a library for the Python programming language, adding support for large
 - [x] Dot Product vs Element Wise
 - [x] Exercise: Nut Butter Store Sales
 - [x] Comparison Operators
-- [ ] Sorting Arrays
+- [x] Sorting Arrays
 - [ ] Turn Images Into NumPy Arrays
 
 ## Prerequisites
