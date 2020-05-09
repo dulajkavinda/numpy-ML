@@ -11,7 +11,7 @@ NumPy is a library for the Python programming language, adding support for large
 - [x] Viewing Arrays and Matrices
 - [x] Manipulating Arrays
 - [x] Standard Deviation and Variance
-- [ ] Reshape and Transpose
+- [x] Reshape and Transpose
 - [ ] Dot Product vs Element Wise
 - [ ] Exercise: Nut Butter Store Sales
 - [ ] Comparison Operators
